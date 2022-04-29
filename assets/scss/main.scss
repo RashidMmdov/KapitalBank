@@ -1,0 +1,156 @@
+main{
+    .container{
+        .tab-link{
+            width: 40%;
+            a{
+                text-decoration: none;
+                border: 1px solid #E8ECF1;
+                color: white;
+                background-color: #E8ECF1;
+                padding: 6px 24px 8px;
+                border-radius: 200px;
+            }
+            .select{
+                background-color: #F45359;
+                border: #F45359;
+            }
+        }
+    }
+}
+main{
+    .Cars{
+        .card{
+        background-color: #F9FAFB;
+            height: 300px;
+            padding: 45px;
+            border-radius: 20px;
+            box-sizing: border-box;
+            .card-title{
+                padding-left: 10%;
+            }
+            ul{
+                padding-top: 10px;
+            }
+            a{
+                text-decoration: none;
+                color: black;
+                margin: 0px 10px;
+            }
+            .btn{
+                button{
+                    height: 10px;
+                    margin: 0px 50px;
+                    padding: 11px 65px 35px;
+                    background-color: #F45359;
+                    border: #F45359;
+                    color: white;
+                    border-radius: 10px;
+                    
+                }
+            }
+        }
+    }
+}
+
+main{
+    .Cards2{
+        margin-top: 70px;
+        
+           
+        img{
+            width: 200px;
+            height: 100px;
+            position: absolute;
+            bottom: 80%;
+            
+        }
+        .card{
+            padding-top: 15%;
+            width: 400px;
+            height: 250px;
+            border: none;
+            background-color: #E8ECF1;
+            
+            button{
+                background-color: #E8ECF1;
+                color: #F45359;
+                border: none;                 
+                
+            }
+            
+        }
+    }
+}
+
+
+main{
+    .Cards3{
+        margin-top: 70px;
+        
+           
+        img{
+            width: 200px;
+            height: 100px;
+            position: absolute;
+            bottom: 80%;
+            
+        }
+        .card{
+            padding-top: 15%;
+            width: 400px;
+            height: 250px;
+            border: none;
+            background-color: #E8ECF1;
+            
+            button{
+                background-color: #E8ECF1;
+                color: #F45359;
+                border: none;                 
+                
+            }
+            
+        }
+    }
+}
+main{
+    .Cards4,.Cards5{
+        margin-top: 70px;
+        
+           
+        img{
+            width: 200px;
+            height: 100px;
+            position: absolute;
+            bottom: 80%;
+            
+        }
+        .card{
+            padding-top: 15%;
+            width: 400px;
+            height: 250px;
+            border: none;
+            background-color: #E8ECF1;
+            
+            button{
+                background-color: #E8ECF1;
+                color: #F45359;
+                border: none;                 
+                
+            }
+            
+        }
+    }
+}
+
+main{
+    .Cards2,.Cards3.Cards4,.Cards5{
+        .btn:hover{
+            background-color: #F45359;
+            color: white;
+        }
+        .btn2:hover{
+            background-color: #F45359;
+            color: white;
+        }
+    }
+}

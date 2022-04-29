@@ -1,0 +1,136 @@
+main .container .tab-link {
+  width: 40%;
+}
+
+main .container .tab-link a {
+  text-decoration: none;
+  border: 1px solid #E8ECF1;
+  color: white;
+  background-color: #E8ECF1;
+  padding: 6px 24px 8px;
+  border-radius: 200px;
+}
+
+main .container .tab-link .select {
+  background-color: #F45359;
+  border: #F45359;
+}
+
+main .Cars .card {
+  background-color: #F9FAFB;
+  height: 300px;
+  padding: 45px;
+  border-radius: 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+main .Cars .card .card-title {
+  padding-left: 10%;
+}
+
+main .Cars .card ul {
+  padding-top: 10px;
+}
+
+main .Cars .card a {
+  text-decoration: none;
+  color: black;
+  margin: 0px 10px;
+}
+
+main .Cars .card .btn button {
+  height: 10px;
+  margin: 0px 50px;
+  padding: 11px 65px 35px;
+  background-color: #F45359;
+  border: #F45359;
+  color: white;
+  border-radius: 10px;
+}
+
+main .Cards2 {
+  margin-top: 70px;
+}
+
+main .Cards2 img {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  bottom: 80%;
+}
+
+main .Cards2 .card {
+  padding-top: 15%;
+  width: 400px;
+  height: 250px;
+  border: none;
+  background-color: #E8ECF1;
+}
+
+main .Cards2 .card button {
+  background-color: #E8ECF1;
+  color: #F45359;
+  border: none;
+}
+
+main .Cards3 {
+  margin-top: 70px;
+}
+
+main .Cards3 img {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  bottom: 80%;
+}
+
+main .Cards3 .card {
+  padding-top: 15%;
+  width: 400px;
+  height: 250px;
+  border: none;
+  background-color: #E8ECF1;
+}
+
+main .Cards3 .card button {
+  background-color: #E8ECF1;
+  color: #F45359;
+  border: none;
+}
+
+main .Cards4, main .Cards5 {
+  margin-top: 70px;
+}
+
+main .Cards4 img, main .Cards5 img {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  bottom: 80%;
+}
+
+main .Cards4 .card, main .Cards5 .card {
+  padding-top: 15%;
+  width: 400px;
+  height: 250px;
+  border: none;
+  background-color: #E8ECF1;
+}
+
+main .Cards4 .card button, main .Cards5 .card button {
+  background-color: #E8ECF1;
+  color: #F45359;
+  border: none;
+}
+
+main .Cards2 .btn:hover, main .Cards3.Cards4 .btn:hover, main .Cards5 .btn:hover {
+  background-color: #F45359;
+  color: white;
+}
+
+main .Cards2 .btn2:hover, main .Cards3.Cards4 .btn2:hover, main .Cards5 .btn2:hover {
+  background-color: #F45359;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
